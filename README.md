@@ -1,3 +1,3 @@
 Sapiensa Rocket team
 -
-We build rockets
+We build rockets.
