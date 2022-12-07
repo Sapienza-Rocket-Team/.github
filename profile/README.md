@@ -1,2 +1,2 @@
-## Welcome to SapienZa Rocket Team
+## Welcome to Sapienza Rocket Team
 We build rockets
