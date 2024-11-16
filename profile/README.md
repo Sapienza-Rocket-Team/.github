@@ -1,2 +1,1 @@
-## Welcome to Sapienza Rocket Team
-We build rockets
+Designing and Launching rockets since 2018 🚀
